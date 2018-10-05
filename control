@@ -1,0 +1,13 @@
+Package: com.yaowei.electra-plrun
+Name: electra-plrun
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Run binaries with TF_PLATFORM=1
+ Run binaries with TF_PLATFORM=1
+ Installs under /usr/bin
+ Source: https://github.com/MJavad/electra-plrun
+Maintainer: Yaowei
+Author: Yaowei
+Section: System
+Tag: role::hacker
